@@ -1,0 +1,15 @@
+{
+    "name": "imap_stress",
+    "author": {
+        "name": "Yanin Elbi",
+        "email": "yanin@startrise.com"
+    },
+    "version": "0.0.1",
+    "dependencies": {
+        "async": "*",
+        "imap": "*",
+        "posix": "*",
+        "imap-server": "*"
+    },
+    "main": "index.js"
+}
